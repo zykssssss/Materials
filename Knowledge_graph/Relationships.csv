@@ -1,0 +1,129 @@
+StartNode,Relationship,EndNote
+919,Contains,920
+920,Belongs to,919
+920,Contains,937
+937,Belongs to,920
+920,Contains,934
+934,Belongs to,920
+920,Contains,929
+929,Belongs to,920
+920,Contains,926
+926,Belongs to,920
+920,Contains,921
+921,Belongs to,920
+921,Contains,922
+922,Belongs to,921
+110,Contains,921
+921,Belongs to,110
+922,Contains,925
+925,Belongs to,922
+922,Contains,924
+924,Belongs to,922
+922,Contains,923
+923,Belongs to,922
+924,Lower neighbor,923
+923,Upper neighbor,924
+928,Lower neighbor,924
+924,Upper neighbor,928
+928,Upper neighbor,925
+925,Lower neighbor,928
+926,Contains,927
+927,Belongs to,926
+94,Contains,926
+926,Belongs to,94
+927,Contains,928
+928,Belongs to,927
+931,Lower neighbor,928
+928,Upper neighbor,931
+929,Contains,930
+930,Belongs to,929
+1,Contains,929
+929,Belongs to,1
+930,Contains,933
+933,Belongs to,930
+930,Contains,932
+932,Belongs to,930
+930,Contains,931
+931,Belongs to,930
+932,Lower neighbor,931
+931,Upper neighbor,932
+933,Lower neighbor,932
+932,Upper neighbor,933
+936,Lower neighbor,933
+933,Upper neighbor,936
+934,Contains,935
+935,Belongs to,934
+256,Contains,934
+934,Belongs to,256
+935,Contains,936
+936,Belongs to,935
+939,Lower neighbor,936
+936,Upper neighbor,939
+937,Contains,938
+938,Belongs to,937
+616,Contains,937
+937,Belongs to,616
+938,Contains,939
+939,Belongs to,938
+940,Contains,941
+941,Belongs to,940
+941,Contains,958
+958,Belongs to,941
+941,Contains,955
+955,Belongs to,941
+941,Contains,951
+951,Belongs to,941
+941,Contains,947
+947,Belongs to,941
+941,Contains,942
+942,Belongs to,941
+942,Contains,943
+943,Belongs to,942
+110,Contains,942
+942,Belongs to,110
+943,Contains,950
+950,Belongs to,943
+943,Contains,946
+946,Belongs to,943
+943,Contains,945
+945,Belongs to,943
+943,Contains,944
+944,Belongs to,943
+945,Lower neighbor,944
+944,Upper neighbor,945
+946,Lower neighbor,945
+945,Upper neighbor,946
+949,Lower neighbor,946
+946,Upper neighbor,949
+947,Contains,948
+948,Belongs to,947
+94,Contains,947
+947,Belongs to,94
+948,Contains,949
+949,Belongs to,948
+953,Lower neighbor,949
+949,Upper neighbor,953
+953,Lower neighbor,950
+950,Upper neighbor,953
+951,Contains,952
+952,Belongs to,951
+1,Contains,951
+951,Belongs to,1
+952,Contains,954
+954,Belongs to,952
+952,Contains,953
+953,Belongs to,952
+954,Lower neighbor,953
+953,Upper neighbor,954
+957,Lower neighbor,954
+954,Upper neighbor,957
+955,Contains,956
+956,Belongs to,955
+956,Contains,957
+957,Belongs to,956
+960,Lower neighbor,957
+957,Upper neighbor,960
+958,Contains,959
+959,Belongs to,958
+959,Contains,960
+960,Belongs to,959
