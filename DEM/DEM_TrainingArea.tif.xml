@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="zh"><Esri><CreaDate>20250704</CreaDate><CreaTime>14273000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis10.8\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20250704" Time="142730">ExtractByMask china_only.tif a_Merge E:\论文资料\Data\DEM\DEM_TrainingArea.tif</Process></lineage></DataProperties></Esri></metadata>
